@@ -31,11 +31,20 @@ Enables real-time leaf image diagnosis, detailed disease prevention advisory, we
 
 ## 📸 Screenshots
 
-### Disease Diagnosis & Upload
-![LeafScan Diagnosis](https://github.com/DevRahuL-01/LeafScan/blob/main/screenshots/diagnosis.png)
+### 🏠 Landing Page
+![Landing Page](screenshot/landingpage.png)
 
-### Dashboard & Analytics
-![LeafScan Dashboard](https://github.com/DevRahuL-01/LeafScan/blob/main/screenshots/dashboard.png)
+### 📊 Dashboard
+![Dashboard](screenshot/dashboard.png)
+
+### 🔍 Leaf Image Upload
+![Leaf Image Upload](screenshot/imageupload.png)
+
+### 🤖 AI Disease Diagnosis & Prediction
+![AI Disease Diagnosis](screenshot/predicteddisease.png)
+
+### 🩺 Disease Advisory & Care Details
+![Disease Care Advisory Details](screenshot/description.png)
 
 ---
 
