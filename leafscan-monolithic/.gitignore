@@ -1,0 +1,31 @@
+# Environment & Security
+.env
+*.env
+*.pem
+*.key
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python Cache & Compiled Files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Databases & Large Output Files
+*.db
+*.sqlite3
+output.txt
+*.log
+logs/
+
+# IDEs & System Files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
