@@ -194,7 +194,7 @@ LeafScan Project/
 **Rahul Nanhore**  
 *Full Stack & AI Developer*  
 🌐 [LinkedIn](https://www.linkedin.com/in/rahulnanhore)  
-🐙 [GitHub](https://github.com/DevRahuL-01)  
+🐙 [GitHub](https://github.com/rahulnanhore05)  
 
 ---
 
